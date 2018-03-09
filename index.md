@@ -4,17 +4,11 @@ You can use the [editor on GitHub](https://github.com/evomellor/journaltranspare
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRozm5v3CTm1rD4hiZSozDang5j0jMvcegXaappANVkGs7GC9WL8W8izifFK12YJjuUKgQyd-faSxCM/pubhtml?widget=true&amp;headers=false"></iframe>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
