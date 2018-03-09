@@ -2,7 +2,7 @@ The TOP Guidelines provide a common framework for evaluating how journals, publi
 
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRozm5v3CTm1rD4hiZSozDang5j0jMvcegXaappANVkGs7GC9WL8W8izifFK12YJjuUKgQyd-faSxCM/pubhtml?widget=true&amp;headers=false" width="900" height="800">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRozm5v3CTm1rD4hiZSozDang5j0jMvcegXaappANVkGs7GC9WL8W8izifFK12YJjuUKgQyd-faSxCM/pubhtml?widget=true&amp;headers=false" width="800" height="800">
 
 </iframe>
 
